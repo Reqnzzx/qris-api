@@ -1,13 +1,5 @@
 {
-  "entries": [
-    {
-      "hash": "contoh-hash-akan-di-generate-otomatis",
-      "client_id": "123e4567-e89b-12d3-a456-426614174000",
-      "merchant_name": "Toko Contoh Ku",
-      "added_at": 1696000000000,
-      "expires_at": null
-    }
-  ],
-  "signature": "initial",
-  "updated_at": 1696000000000
+  "entries": [],
+  "signature": "dev-signature",
+  "updated_at": 1696428000000
 }
