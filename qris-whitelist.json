@@ -1,5 +1,13 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "hash": "3fd24694220becdcf97a0a3457ef95f81c12c2ac6e519297aa5dbdd89673e8e0",
+      "client_id": "ba98a86c-3aae-4d9c-88f0-3cb0f45f1def",
+      "merchant_name": "LIOPAY CEL OK23873176009",
+      "added_at": 1696428000000,
+      "expires_at": null
+    }
+  ],
   "signature": "dev-signature",
   "updated_at": 1696428000000
 }
