@@ -1,7 +1,8 @@
 {
-  "primary": "",
+  "primary": "localhost:3000",
   "fallback": [],
   "updated_at": 1696000000000
 
 }
+
 
